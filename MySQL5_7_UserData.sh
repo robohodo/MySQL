@@ -9,4 +9,3 @@ yum-config-manager --enable mysql57-community
 yum install mysql-community-server.x86_64
 
 yum -y update
-reboot
